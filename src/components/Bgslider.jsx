@@ -15,7 +15,7 @@ const Bgslider = () => {
     <div className="pb-10 md:py-20 mx-2 relative" >
       <div className="absolute top-10 left-1/2 h-[500px] w-[500px] -translate-x-1/2 rounded-full bg-[radial-gradient(circle,_rgb(124_58_237/0.2)_0%,_rgb(217_70_239/0.3)_40%,_transparent_70%)] blur-3xl"></div>
       {/* Heading*/}
-      <h1 className="text-2xl md:text-3xl lg:text-4xl text-center font-semibold mt-4 bg-gradient-to-r from-gray-900
+      <h1 className="text-2xl md:text-3xl lg:text-4xl text-center font-semibold  mt-4 bg-gradient-to-r from-gray-900
        to-gray-400 text-transparent bg-clip-text  mb-12 sm:mb-20">Remove Background With High
         <br className="hidden md:block"/> Quality and Accuracy</h1>
 

@@ -6,7 +6,7 @@ const Header = () => {
     <div className=" flex items-center justify-between max-sm:flex-col-reverse gap-y-10 px-4 mt-10 lg:px-44 sm:mt-20">
       {/** LEFT SIDE */}
       <div>
-        <h1 className="text-4xl xl:text-5xl 2xl:text-6xl font-bold text-neutral-700 leading-tight">
+        <h1 className="text-4xl xl:text-5xl 2xl:text-6xl font-bold text-neutral-700 leading-tight tracking-tight">
           Remove the <br className="max-md:hidden" />
           <span className="bg-gradient-to-r from-violet-600 to-fuchsia-500 text-transparent bg-clip-text">
             background
