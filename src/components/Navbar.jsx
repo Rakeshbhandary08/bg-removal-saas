@@ -11,7 +11,7 @@ const Navbar = () => {
 
 
         {/** Get Started button */}
-        <button className='bg-zinc-800 text-white flex items-center gap-4 py-2 px-4 sm:px-8 sm:py-3 rounded-full'
+        <button className='bg-zinc-800 text-white  hover:scale-105 transition-all duration-500 flex items-center gap-4 py-2 px-4 sm:px-8 sm:py-3 rounded-full cursor-pointer '
         >Get started <img className='w-3 sm:w-4' src={assets.arrow_icon}></img></button>
 
     </div>

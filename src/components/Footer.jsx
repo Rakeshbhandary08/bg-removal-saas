@@ -11,7 +11,7 @@ const Footer = () => {
           Copyright @bg.removal | All right reserved.
         </p>
       </div>
-      <div className="flex gap-1 opacity-80">
+      <div className="flex gap-1 opacity-80 cursor-pointer">
         <img src={assets.facebook_icon} width={40}></img>
         <img src={assets.twitter_icon} width={40}></img>
         <img src={assets.google_plus_icon} width={40}></img>

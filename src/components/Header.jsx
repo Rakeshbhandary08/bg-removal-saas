@@ -26,7 +26,7 @@ const Header = () => {
             className="inline-flex gap-3 bg-gradient-to-r from-violet-600 to-fuchsia-500 px-8 py-3.5 rounded-full cursor-pointer m-auto hover:scale-105 transition-all duration-700"
           >
             <img width={20} src={assets.upload_btn_icon}></img>
-            <p className="text-white ">Upload your image</p>
+            <p className="text-white text-lg ">Upload your image</p>
           </label>
         </div>
       </div>
